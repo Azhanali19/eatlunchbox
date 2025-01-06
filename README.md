@@ -21,7 +21,7 @@ An online food delivery system designed as a website that allows customers to vi
 
 * Customer Form: http://eatlunchbox.infy.uk/
 
-* Admin Page: http://eatlunchbox.infy.uk/ADMIN/admin-login
+* Admin Page: http://eatlunchbox.infy.uk/ADMIN/admin-login.php
 
 # How to Run the Project
 
