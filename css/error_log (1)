@@ -1,0 +1,35 @@
+[11-Nov-2019 17:34:00 UTC] PHP Notice:  Undefined index: username in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 19
+[11-Nov-2019 17:34:00 UTC] PHP Notice:  Undefined index: password in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 20
+[11-Nov-2019 17:38:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:38:08 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:38:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:40:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:40:04 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:40:54 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:41:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:41:47 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:42:11 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:42:58 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:44:09 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:44:55 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[11-Nov-2019 17:45:13 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/yle6pqtukjtm/public_html/admin/home.php on line 91
+[03-Feb-2020 11:27:50 UTC] PHP Notice:  Undefined index: username in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 19
+[03-Feb-2020 11:27:50 UTC] PHP Notice:  Undefined index: password in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 20
+[03-Feb-2020 11:34:48 UTC] PHP Warning:  move_uploaded_file(img/parothavegcurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:34:48 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phps5R1HH' to 'img/parothavegcurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:37:19 UTC] PHP Warning:  move_uploaded_file(img/parothaeggcurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:37:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVDLaDl' to 'img/parothaeggcurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:38:07 UTC] PHP Warning:  move_uploaded_file(img/parothachickencurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:38:08 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCEvxxz' to 'img/parothachickencurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:00 UTC] PHP Warning:  move_uploaded_file(img/chapathivegcurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:00 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDG3pgl' to 'img/chapathivegcurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:29 UTC] PHP Warning:  move_uploaded_file(img/chapathieggcurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpllTSzR' to 'img/chapathieggcurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:29 UTC] PHP Warning:  move_uploaded_file(img/chapathieggcurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSdTYN1' to 'img/chapathieggcurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:59 UTC] PHP Warning:  move_uploaded_file(img/chapathichickencurry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:39:59 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptsQ2dg' to 'img/chapathichickencurry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:40:21 UTC] PHP Warning:  move_uploaded_file(img/ricedalfry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:40:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0DG9Ga' to 'img/ricedalfry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:40:43 UTC] PHP Warning:  move_uploaded_file(img/ricechickenfry.jpg): failed to open stream: No such file or directory in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35
+[03-Feb-2020 11:40:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php3wKGL6' to 'img/ricechickenfry.jpg' in /home/yle6pqtukjtm/public_html/admin/add_item.php on line 35

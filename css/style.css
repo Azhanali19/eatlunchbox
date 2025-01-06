@@ -1,0 +1,207 @@
+ 
+
+body{
+	/*background: #7b146a;*/
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+	 background: #81398e;
+}
+.bg-light {
+    background: #81398e;
+    /* color: #fff; */
+}
+a#menu:hover, a#menu:visited, a#menu:active,a#menu:focus {
+    background: red;
+    color: #fff;
+}
+.navbar-dark .navbar-brand {
+    font-weight: 700;
+    color: #ef0d0d;
+}
+p#grab-text {
+    color: #883b2e;
+}
+.trending-div {
+    opacity: 1;
+    color: black;
+    position: absolute;
+    top: 470px;
+    background: pink;
+    padding: 25px;
+    width: 25%;
+    height: 200px;
+    font-weight: 700;
+
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
+    margin: 50px 20px 50px 20px;
+}
+/*.item-img {
+    width: 250px;
+    height: 200px;
+}*/
+.item-img img{
+	width:100%;
+	border-radius: 10px;
+}
+span#sub-title {
+    color: #888283;
+}
+p#item-name {
+    margin-bottom: 5px;
+    margin-top:20px;
+}
+/*.item-img img:hover {
+    transform: scale(1.1);
+    transition: all .5s ease-in-out .1s;
+}*/
+.items {
+    border: 4px;
+    box-shadow: 0 7px 21px 3px rgba(0,0,0,.09);
+}
+p#rating {
+    margin: 0;
+    padding: 2px;
+    font-size: 25px;
+    color: yellow;
+    letter-spacing: 3px;
+}
+/*p#discount {
+    float: left;
+    margin: 6px;
+}*/
+span#price {
+    float: right;
+    color: red;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+}
+.items {
+    /*color: #fff;*/
+    /*background: #81398e;*/
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+ul.contact, ul.contact li {
+    list-style-type: none;
+    padding: 0;
+    color: gray;
+    line-height: 25px;
+}
+.aside {
+    padding-top: 0;
+    padding-left: 37px;
+    border-left: 1px solid silver;
+    margin-top: 85px;
+}
+footer {
+    background-color: #000;
+    color: #fff;
+    margin-top: 50px;
+    clear: both;
+    padding: 5px;
+}
+.footer-bottom {
+    text-align: center;
+    color: silver;
+    padding-top: 4px;
+    width: 100%;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    background: #0f1716;
+}
+h6#footer-title{
+	h6 {
+    color: red;
+    font-size: 25px;
+}
+h2.section-heading {
+    text-align: center;
+}
+p#price-title {
+    font-weight: bold;
+    margin: 1px;
+}
+
+
+.item-img {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.item-img:hover .image {
+  opacity: 0.3;
+}
+
+.item-img:hover .middle {
+  opacity: 1;
+}
+
+.order-btn {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
+p#price-title {
+    margin-bottom: 5px;
+    margin-top: 12px;
+}
+
+.jumbotron-fluid {
+     background-image: url("../img/catering-services.jpg");
+}
+
+.jumbotron {
+    color: #fff;
+
+  } 
+
+  p#creator-details {
+    margin: 0;
+    color: #555555;
+    font-weight: 500;
+}
+
+ /*****************/
+ /* Media Queries */
+ /*****************/
+
+ @media only screen and  (max-width: 768px) {
+   
+   .trending-div{
+        display: none;
+   }
+  }
+}
