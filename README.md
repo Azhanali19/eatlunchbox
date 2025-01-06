@@ -1,30 +1,104 @@
-# eatlunchbox
-* An online food delivery system generally a website that allows customers to view  the menu and place an order, and an admin interface that enables the restaurant to  receive and fulfil customer orders.
+# EatLunchbox
+An online food delivery system designed as a website that allows customers to view the menu and place orders. It also features an admin interface for restaurants to manage and fulfill customer orders efficiently.
 
-I developed this website using PHP,CSS,MySQL. TO SEE THE FORM VISIT http://eatlunchbox.infy.uk/
-And for admin page VISIT eatlunchbox.infy.uk/ADMIN/admin-login.php
+# Features
 
-If we want to run in the system we need xampp server first, save all the files in htdoc then import the database into the server after this enter the URL localhost/form run the form
-//For more details below steps
+* Customer Interface: Browse the menu, select items, and place orders.
 
-XAMPP is a popular open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages. Here are step-by-step instructions on how to run a project using XAMPP:
+* Admin Interface: Manage orders, update the menu, and track customer requests.
 
-* Download and Install XAMPP:
-* After Installing Start Apache and MySQL server
-* Open your web browser and enter http://localhost in the address bar. If XAMPP is running correctly, you should see the XAMPP dashboard.
-* Create a Project Folder:
-  Create a folder in the htdocs directory inside your XAMPP installation directory. This will be the root folder for your project.
-* Place all the files inside the project folder you created in the htdocs directory.
-* Database Setup (Optional):
-  If your project involves a database, you can use the phpMyAdmin tool bundled with XAMPP to create databases and tables.
-  Open your web browser and enter http://localhost/phpmyadmin.
-  Use the interface to create your database and tables.
-* Access Your Project:
-  Open your web browser and enter http://localhost/your_project_folder (ex: feed_back_form ) in the address bar, replacing your_project_folder 
-  with the name of the folder you created. You should now see your project.
- 
-That's it! You've successfully set up and run a project using XAMPP. Remember to start Apache and MySQL each time you want to work on your project, 
-and stop them when you're done.
+* Database Integration: Utilizes MySQL for secure and efficient data management.
 
+# Technologies Used
 
-**I use MySQL database and the database name is lunchboxdb.
+* Frontend: PHP, CSS
+
+* Backend: PHP
+
+* Database: MySQL
+
+# Demo Links
+
+* Customer Form: http://eatlunchbox.infy.uk/
+
+* Admin Page: http://eatlunchbox.infy.uk/ADMIN/admin-login
+
+# How to Run the Project
+
+To run this project locally, you need to set up a XAMPP server. Follow the steps below:
+
+1. Download and Install XAMPP
+
+  * Download XAMPP from Apache Friends.
+
+  * Install it on your system and launch the control panel.
+
+2. Start Apache and MySQL Servers
+
+  * Open the XAMPP control panel and start the Apache and MySQL servers.
+
+3. Set Up Project Files
+
+  * Navigate to the htdocs directory inside your XAMPP installation folder.
+
+  * Create a folder named eatlunchbox (or any name you prefer).
+
+  * Place all the project files in this folder.
+
+4. Import the Database
+
+  * Open your web browser and go to http://localhost/phpmyadmin.
+
+  * Create a new database named lunchboxdb.
+
+  * Import the provided .sql file to set up the database structure and initial data.
+
+5. Access the Project
+
+  * For the customer interface: Open your web browser and visit http://localhost/eatlunchbox/.
+
+  * For the admin interface: Visit http://localhost/eatlunchbox/ADMIN/admin-login.
+
+# Screenshots
+
+Below are some screenshots showcasing the project:
+
+# Customer Interface
+
+![Customer Interface](<img/Customer interface.png>)
+
+Screenshot of the customer interface where users can browse the menu and place orders.
+
+# Admin Login Page
+
+![Admin Login Page](<img/Admin login.png>)
+
+Screenshot of the admin login page.
+
+# Order Management (Admin Panel)
+
+![Order](img/Orders.png)
+
+Screenshot of the admin panel displaying order management features.
+
+# Additional Notes
+
+  * XAMPP: XAMPP is an open-source cross-platform web server solution stack package developed by Apache Friends. It includes the Apache HTTP Server, MariaDB database, and interpreters for scripts written in PHP and Perl.
+
+  * MySQL Database: The project uses a MySQL database named lunchboxdb. Ensure it is properly imported before running the project.
+
+# Step-by-Step Recap for Running the Project
+
+  1. Download and install XAMPP.
+
+  2. Start Apache and MySQL services.
+
+  3. Save project files in the htdocs directory.
+
+  4. Import the lunchboxdb database using phpMyAdmin.
+
+  5. Access the project via the browser using the appropriate URL.
+
+# Contact
+
+For further assistance or inquiries, feel free to contact me.
